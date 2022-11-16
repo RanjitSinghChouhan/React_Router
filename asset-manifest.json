@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//RanjitSinghChouhan.github.io/React_Router/static/css/main.7be50c58.css",
+    "main.js": "//RanjitSinghChouhan.github.io/React_Router/static/js/main.aa7c5336.js",
+    "static/js/787.4fd71a10.chunk.js": "//RanjitSinghChouhan.github.io/React_Router/static/js/787.4fd71a10.chunk.js",
+    "index.html": "//RanjitSinghChouhan.github.io/React_Router/index.html",
+    "main.7be50c58.css.map": "//RanjitSinghChouhan.github.io/React_Router/static/css/main.7be50c58.css.map",
+    "main.aa7c5336.js.map": "//RanjitSinghChouhan.github.io/React_Router/static/js/main.aa7c5336.js.map",
+    "787.4fd71a10.chunk.js.map": "//RanjitSinghChouhan.github.io/React_Router/static/js/787.4fd71a10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7be50c58.css",
+    "static/js/main.aa7c5336.js"
+  ]
+}
